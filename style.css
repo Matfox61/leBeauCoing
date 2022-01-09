@@ -1,0 +1,34 @@
+.editeur-bouton {
+    min-height: 300px;
+    width: 100%;
+    border: 1px solid black;
+}
+
+.navbar
+{
+    background-color: orange;
+}
+
+.nav-text
+{
+    color: white;
+    text-decoration: none;
+}
+
+table
+{
+    display: inline-block;
+    margin: 10px;
+    width: 100%;
+}
+
+th, td
+{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+footer
+{
+    text-align: center;
+}
